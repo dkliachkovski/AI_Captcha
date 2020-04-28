@@ -99,13 +99,7 @@ In order to make the widget applicable to protect the web services it requires t
 <br/>
 <br/>
 
-For this purpose the model was prepared, according to which a simulation of the process<br/>
-when in-truders trie to hack usuing bot will be carried out.
-
-<br/>
-
-The program analyzes all the steps and actions of the user throughout the test,<br>
-in the conclusion of which gives the result that the program determines this or that person.
+For this purpose the model was prepared, according to which a simulation of the process when in-truders trie to hack usuing bot will be carried out. The program analyzes all the steps and actions of the user throughout the test,in the conclusion of which gives the result that the program determines this or that person.
 
 
 
@@ -161,7 +155,8 @@ The image acquires a certain color depending on the selected bot photo.
 <br/>
 <br/>
 
-> For example, if a photo turns red, it means that the bot mistook this for something ```not real``` or vice versa.
+*Ex.*
+> if a photo turns red, it means that the bot took this photo as ```not real``` or vice versa.
 
 
 
