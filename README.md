@@ -67,7 +67,11 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 
 <br>
 
-<img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Style/Starry%20Night.jpg" height="223px">
+<div align="center">
+ <img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Style/Starry%20Night.jpg" height="710px">
+ <img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Style/style_transfer_result_eagle6.png" height="223px">
+ <img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Style/style_transfer_result_bridge.jpg" height="223px">
+</div>
 
 
 
