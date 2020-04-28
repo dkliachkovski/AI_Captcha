@@ -4,12 +4,12 @@
 <br/>
 <br/>
 
-### Main concept about the project was to deliver a *captcha tool*.
+### Main concept about the project was to deliver a *captcha tool*
 <br/>
 <br/>
 
-  The practical usage of our solution would be very much appreciated by institutions <br/>
-  such as museums or high class companies focused on integrate of Customer Experience
+  The practical usage of our solution would be appreciated by institutions <br/>
+  or high class companies focused on integrate of Customer Experience.
 
 <br/>
 <br/>
