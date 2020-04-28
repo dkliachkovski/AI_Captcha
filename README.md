@@ -82,7 +82,7 @@ The root mean square differ-ence between the two style matrices is defining the 
 <br/>
 <br/>
 
-Both of the pairs are unrecognizable for computer bot, but it’s important to make sure<br/>                                             to create a pair in which the second picture is easily recognizable for a human.
+> Both of the pairs are unrecognizable for computer bot, but it’s important to make sure<br/>                                             to create a pair in which the second picture is easily recognizable for a human.
 
 <br/>
 <br/>
