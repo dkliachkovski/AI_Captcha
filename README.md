@@ -63,7 +63,7 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 <br/>
 <br/>
 
-## Here we can easily tell which of the art is the original one and which is not
+## <div style="text-align: center"> Here we can easily tell which of the art is the original one and which is not
 
 <br>
 
@@ -74,7 +74,7 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 </div>
 
 
-### Instead of this pair ⇪
+### <div style="text-align: center"> Instead of this pair ⇪
 
 
 
