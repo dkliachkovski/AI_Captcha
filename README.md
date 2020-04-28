@@ -63,7 +63,7 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 <br/>
 <br/>
 
-## Here we can easily tell which of the art is the original one and which is not:
+## Here we can easily tell which of the art is the original one and which is not
 
 <br>
 
@@ -73,6 +73,8 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
  <img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Style/style_transfer_result_bridge.jpg" height="223px">
 </div>
 
+
+### Instead of this pair ⇪
 
 
 
