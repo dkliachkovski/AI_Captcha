@@ -59,6 +59,28 @@
 
 Loss function - is meant to generate 2 style matrixes. The root mean square differ-ence between the two style matrices is defining the style loss.
 
+<br/>
+<br/>
+<br/>
+## Here we can easily tell which of the art is the original one and which is not:
+
+
+![Night](C:\Users\Данила\Desktop\Мои файлы\Second year\Python\Python 2 semester 2 year\5th clas\5_2 neural transfer\lil.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 It’s important to set the values of the above variables in a way that generated image will be recognizable for the average person and not for the computer bot.
