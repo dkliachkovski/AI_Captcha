@@ -141,6 +141,7 @@ The user executes the commands in a chaotic manner, which, like the opponent’s
 <br/>
 
 The technique of simple highlighting answers with color is used:
+
 <br/>
 
 * Red - error
