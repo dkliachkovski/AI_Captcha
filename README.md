@@ -62,8 +62,10 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 <br/>
 <br/>
 <br/>
+
 ## Here we can easily tell which of the art is the original one and which is not:
 
+![night](Starry Night.jpg)
 
 
 
