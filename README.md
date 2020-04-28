@@ -54,6 +54,14 @@
 * Style images - photos of ex. art
 * Model - pertained VGG-19
 
+<br/>
+<br/>
+
+Loss function - is meant to generate 2 style matrixes. The root mean square differ-ence between the two style matrices is defining the style loss.
+
+<br>
+
+It’s important to set the values of the above variables in a way that generated image will be recognizable for the average person and not for the computer bot.
 
 
 
