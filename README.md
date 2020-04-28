@@ -77,6 +77,27 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 
 ## <div align="center"> Instead of this pair ⇪
 
+<br/>
+<br/>
+<br/>
+
+Both of the pairs are unrecognizable for computer bot, but it’s important to make sure<br/>                                             to create a pair in which the second picture is easily recognizable for a human.
+
+<br/>
+<br/>
+<br/>
+<br/>
+## JS
+<br/>
+<br/>
+
+In order to make the widget applicable to protect the web services<br/>
+it requires to develop an API key which is going to be added to the html of the given website.
+
+<br/>
+
+Development of the mentioned API is way more time consuming,<br/>
+hence it’s still in the creation phase. Here is the mvp version ⭬ [Quick train of the system](https://captcha-9bb226.webflow.io/)
 
 
 
