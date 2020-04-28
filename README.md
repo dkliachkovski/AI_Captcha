@@ -126,7 +126,11 @@ in the conclusion of which gives the result that the program determines this or 
 
 Here is the test ⭲ [Try it!](https://captcha-9bb226.webflow.io/)
 
+</div>
 
+
+<div align="center">
+<img src = 'https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Description/Bot%20competition.gif' height = '512px'>
 
 
 
