@@ -104,7 +104,7 @@ For this purpose the model was prepared, according to which a simulation of the 
 
 
 <div align="center">
- <img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Description/model.png" height="476px">
+ <img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Other/model.png" height="476px">
 
 
 
@@ -132,7 +132,7 @@ In this process, the user participates in a confrontation with a "software" oppo
 <br/>
 
 <div align="center">
-<img src = 'https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Description/Bot%20competition.gif' height = '512px'>
+<img src = 'https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Other/Bot%20competition.gif' height = '512px'>
 
 </div>
 
