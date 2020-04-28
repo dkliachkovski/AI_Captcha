@@ -128,9 +128,50 @@ Here is the test ⭲ [Try it!](https://captcha-9bb226.webflow.io/)
 
 </div>
 
+<br/>
+<br/>
+<br/>
+
+Another test was also conducted, but already on a real bot.
+
+<br/>
+<br/>
+<br/>
+
+In this process, the user participates in a confrontation with a software opponent whose goal is to determine where the ```real``` or vice versa is located.
+
+<br/>
+<br/>
 
 <div align="center">
 <img src = 'https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Description/Bot%20competition.gif' height = '512px'>
+
+</div>
+
+The user executes the commands in a chaotic manner, which, like the opponent’s actions, are entered into the database.
+
+<br/>
+
+The technique of simple highlighting answers with color is used:
+<br/>
+
+* Red - error
+ 
+* Green - correct
+
+
+
+The image acquires a certain color depending on the selected bot photo.
+
+For example, if a photo turns red, it means that the bot mistook this for something ```not real``` or vice versa.
+
+
+
+
+
+
+
+
 
 
 
