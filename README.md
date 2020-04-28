@@ -139,6 +139,7 @@ In this process, the user participates in a confrontation with a "software" oppo
 The user executes the commands in a chaotic manner, which, like the opponent’s actions, are entered into the database.
 
 <br/>
+<br/>
 
 The technique of simple highlighting answers with color is used:
 
