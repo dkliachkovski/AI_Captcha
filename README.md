@@ -75,7 +75,7 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 
 
 
-### <div align="center"> Instead of this pair ⇪
+## <div align="center"> Instead of this pair ⇪
 
 
 
