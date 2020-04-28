@@ -94,14 +94,8 @@ The root mean square differ-ence between the two style matrices is defining the 
 <br/>
 <br/>
 
-In order to make the widget applicable to protect the web services<br/>
-it requires to develop an API key which is going to be added to the html of the given website.
-
-<br/>
-
-Development of the mentioned API is way more time consuming,hence it’s still in the creation phase. 
-
-<br/>
+In order to make the widget applicable to protect the web services it requires to develop an API key which is going to be added to the html of the given website. Development of the mentioned API is way more time consuming,hence it’s still in the creation phase.
+ 
 <br/>
 <br/>
 
@@ -138,7 +132,7 @@ Here is the test ⭲ [Try it!](https://captcha-9bb226.webflow.io/)
 <br/>
 <br/>
 
-In this process, the user participates in a confrontation with a software opponent whose goal is to determine where the ```real``` or vice versa is located.
+In this process, the user participates in a confrontation with a "software" opponent whose goal is to determine where the ```real``` or vice versa is located.
 
 <br/>
 <br/>
@@ -156,12 +150,11 @@ The technique of simple highlighting answers with color is used:
 <br/>
 
 * Red - error
-
- <br/>
  
 * Green - correct
 
-
+<br/>
+<br/>
 
 The image acquires a certain color depending on the selected bot photo.
 
