@@ -103,9 +103,12 @@ Development of the mentioned API is way more time consuming,hence it’s still i
 
 <br/>
 <br/>
+<br/>
 
 For this purpose the model was prepared, according to which a simulation of the process<br/>
 when in-truders trie to hack usuing bot will be carried out.
+
+<br/>
 
 The program analyzes all the steps and actions of the user throughout the test,<br>
 in the conclusion of which gives the result that the program determines this or that person.
