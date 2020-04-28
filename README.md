@@ -76,7 +76,7 @@ The root mean square difference between the two style matrices is defining the s
 
 
 
-## <div align="center"> Instead of this pair ⇪
+## <div align="center"> ⇪ Instead of this pair ⇪
 
 <br/>
 <br/>
