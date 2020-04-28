@@ -28,7 +28,6 @@
 
 <br/>
 <br/>
-<br/>
 
 1.	*Neural style transfer*
 
@@ -47,7 +46,7 @@
 <br/>
 <br/>
 
-#### NST
+### NST
 
 <br/>
 
