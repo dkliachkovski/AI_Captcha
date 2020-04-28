@@ -8,8 +8,8 @@
 <br/>
 <br/>
 
-  The practical usage of our solution would be appreciated by foundations  <br/>
-  or companies focused on integrate of Customer Experience.
+  The practical usage of our solution would be appreciated by diverse  <br/>
+  foundations or companies focused on integrate of Customer Experience.
 
 <br/>
 <br/>
