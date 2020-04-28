@@ -30,15 +30,16 @@
 <br/>
 <br/>
 
-1.	Neural style transfer
+1.	*Neural style transfer*
 
 <br/>
 
-2.	Captcha implementation based on JS
+2.	*Captcha implementation based on JS*
 
 <br/>
+<br/>  
 <br/>
-<br/>
+<br/> 
 
 > Library of the shown photos is displaying both  original <br/> 
   works of art and fake ones made by neural style transfer. 
