@@ -26,7 +26,13 @@ such as museums or high class companies focused on integrate of Customer Experie
 
 We can differentiate project into 2 parts:
 
+<br/>
+<br/>
+
 1.	Neural style transfer
+
+<br/>
+
 2.	Captcha implementation based on JS
 
 <br/>
