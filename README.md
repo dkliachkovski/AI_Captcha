@@ -94,12 +94,12 @@ The root mean square difference between the two style matrices is defining the s
 <br/>
 <br/>
 
-In order to make the widget applicable to protect the web services it requires to develop an API key which is going to be added to the html of the given website. Development of the mentioned API is way more time consuming,hence it’s still in the creation phase.
+In order to make the widget applicable to protect the web services it requires to develop an API key which is going to be added to the html of the given website. Development of the mentioned API is way more time consuming, hence it’s still in the creation phase.
  
 <br/>
 <br/>
 
-For this purpose the model was prepared, according to which a simulation of the process when intruders tries to hack usuing bot will be carried out. The program analyzes all the steps and actions of the user throughout the test,in the conclusion of which gives the result that the program determines this or that person.
+For this purpose the model was prepared, according to which a simulation of the process when intruders tries to hack usuing bot will be carried out. The program analyzes all the steps and actions of the user throughout the test, in the conclusion of which gives the result that the program determines this or that person.
 
 
 
