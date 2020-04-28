@@ -100,7 +100,7 @@ it requires to develop an API key which is going to be added to the html of the 
 <br/>
 
 Development of the mentioned API is way more time consuming,<br/>
-hence it’s still in the creation phase. Here is the mvp version ⭬  [Play quick train of the system](https://captcha-9bb226.webflow.io/)
+hence it’s still in the creation phase. Here is the mvp version ⭲ [Play quick train of the system!](https://captcha-9bb226.webflow.io/)
 
 
 
