@@ -9,7 +9,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 The practical usage of our solution would be very much appreciated by institutions <br/>
 such as museums or high class companies focused on integrate of Customer Experience.
