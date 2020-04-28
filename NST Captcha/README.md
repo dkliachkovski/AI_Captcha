@@ -1,3 +1,0 @@
-
-## Captcha 
-## NST
