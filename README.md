@@ -132,7 +132,7 @@ Here is the test ⭲ [Try it!](https://captcha-9bb226.webflow.io/)
 <br/>
 <br/>
 
-#### Another test was also conducted, but already on a real bot.
+### Another test was also conducted, but already on a real bot.
 
 <br/>
 <br/>
@@ -157,8 +157,7 @@ The technique of simple highlighting answers with color is used:
 
 * Red - error
 
-
-<br/>
+ <br/>
  
 * Green - correct
 
