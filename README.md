@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-### Main concept about the project was to deliver a *captcha tool*.
+## Main concept about the project was to deliver a *captcha tool*.
 <br/>
 <br/>
 
@@ -24,7 +24,7 @@ such as museums or high class companies focused on integrate of Customer Experie
 <br/>
 <br/>
 
-We can differentiate project into 2 parts:
+#### We can differentiate project into 2 parts:
 
 <br/>
 <br/>
