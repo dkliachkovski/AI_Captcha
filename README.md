@@ -58,7 +58,7 @@
 <br/>
 
 Loss function - is meant to generate 2 style matrixes.<br/>
-The root mean square differ-ence between the two style matrices is defining the style loss.
+The root mean square difference between the two style matrices is defining the style loss.
 
 <br/>
 <br/>
