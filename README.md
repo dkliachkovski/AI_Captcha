@@ -26,8 +26,23 @@ such as museums or high class companies focused on integrate of Customer Experie
 
 We can differentiate project into 2 parts:
 
-⋅⋅⋅1.	Neural style transfer⋅⋅ 
-⋅⋅⋅2.	Captcha implementation based on JS⋅⋅
+1.	Neural style transfer
+2.	Captcha implementation based on JS
+
+<br/>
+<br/>
+
+> Library of the shown photos is displaying both original works fo art and fake ones made by neural style transfer. 
+
+<br/>
+
+#### NST
+
+<br/>
+
+* Input images - photos of ex. animals
+* Style images - photos of ex. art
+
 
 
 
