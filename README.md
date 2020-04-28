@@ -39,7 +39,8 @@
 <br/>
 <br/>
 
-> Library of the shown photos is displaying both original works fo art and fake ones made by neural style transfer. 
+> Library of the shown photos is displaying both original works<br/> 
+  of art and fake ones made by neural style transfer. 
 
 <br/>
 
