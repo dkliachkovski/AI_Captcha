@@ -33,6 +33,7 @@ such as museums or high class companies focused on integrate of Customer Experie
 1.	Neural style transfer
 
 <br/>
+
 2.	Captcha implementation based on JS
 
 <br/>
