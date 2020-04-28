@@ -8,8 +8,8 @@
 <br/>
 <br/>
 
-  The practical usage of our solution would be appreciated by institutions <br/>
-  or high class companies focused on integrate of Customer Experience.
+  The practical usage of our solution would be appreciated by some <br/>
+  institutions or companies focused on integrate of Customer Experience.
 
 <br/>
 <br/>
