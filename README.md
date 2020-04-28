@@ -2,7 +2,7 @@
 
 <br/>
 <br/>
-
+<br/>
 Main concept about the project was to deliver a **captcha tool**.
 
 <br/>
