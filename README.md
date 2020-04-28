@@ -99,7 +99,30 @@ it requires to develop an API key which is going to be added to the html of the 
 
 <br/>
 
-Development of the mentioned API is way more time consuming,                                                                              <div align="center"> hence it’s still in the creation phase. Here is the mvp version ⭲ [Play quick train of the system!](https://captcha-9bb226.webflow.io/)
+Development of the mentioned API is way more time consuming,hence it’s still in the creation phase. 
+
+<br/>
+<br/>
+
+For this purpose the model was prepared, according to which a simulation of the process<br/>
+when in-truders trie to hack usuing bot will be carried out.
+
+The program analyzes all the steps and actions of the user throughout the test,<br>
+in the conclusion of which gives the result that the program determines this or that person.
+
+
+
+<div align="center">
+ <img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Description/model.png" height="476px">
+
+
+
+
+
+
+
+
+Here is the test ⭲ [Try it!](https://captcha-9bb226.webflow.io/)
 
 
 
