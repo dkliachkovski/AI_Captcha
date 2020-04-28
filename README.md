@@ -65,8 +65,9 @@ Loss function - is meant to generate 2 style matrixes. The root mean square diff
 
 ## Here we can easily tell which of the art is the original one and which is not:
 
-![alt text](https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Style/Starry%20Night.jpg "Logo Title Text 1")
+<br>
 
+<img src="https://github.com/dkliachkovski/AI_Captcha/blob/master/Images/Style/Starry%20Night.jpg" height="223px">
 
 
 
