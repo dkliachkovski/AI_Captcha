@@ -52,6 +52,7 @@
 
 * Input images - photos of ex. animals
 * Style images - photos of ex. art
+* Model - pertained VGG-19
 
 
 
