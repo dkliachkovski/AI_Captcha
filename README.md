@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-### <div align="center"> Main concept about the project was to deliver a *captcha tool*.
+### <div align="center"> Main concept about the project was to deliver a new *captcha tool*.
 <br/>
 <br/>
 
